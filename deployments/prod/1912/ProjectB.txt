@@ -1,0 +1,3 @@
+Properties-ProjectB1912B25
+bfoo1912B25
+bfooCONF1912B25

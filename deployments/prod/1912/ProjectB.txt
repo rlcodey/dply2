@@ -1,3 +1,3 @@
-Properties-ProjectB1912B25
-bfoo1912B25
-bfooCONF1912B25
+Properties-ProjectB1912B26
+bfoo1912B26
+bfooCONF1912B26
